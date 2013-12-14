@@ -1,0 +1,1 @@
+Dependent by lint "Depends on" issue in Status "Waiting for fix" will be automatically resolved when all issues in configured projects from it depends will be resolved too.
